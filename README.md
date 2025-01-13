@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food-Ecommerce
 Fresh Eats Market Online is a dynamic e-commerce platform dedicated to bringing the freshest and highest quality groceries directly to your doorstep. Our mission is to make healthy eating accessible and convenient by offering a wide variety of farm-fresh produce, organic products, and artisanal goods.
 
@@ -22,3 +23,7 @@ Fresh Eats Market Online is a dynamic e-commerce platform dedicated to bringing 
 ## Visit Us
 [Visit Fresh Eats Market Online](https://Phali003.github.io/Food-Ecommerce)   // [https://phali003.github.io/Food-Ecommerce/]
 
+=======
+# Ecommerce-Website
+A food Ecommerce website
+>>>>>>> origin/main
